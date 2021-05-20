@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnFRH11RLTBMY8gU411EcupkToJuD377fwxQXblRia9DMXshsQ9fHiKkGviO/LNditydK44Cu50EYf8/dFjaYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\james\\source\\repos\\Herança\\Herança\\Herança.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
